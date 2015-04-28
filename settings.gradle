@@ -1,0 +1,1 @@
+include ':app', ':Feedback', ':Analytics', ':AutoUpdate', ':Push', ':Social'
