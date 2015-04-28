@@ -7,6 +7,9 @@ Umeng All In One, 友盟开发工具集成包
 不过友盟的[文档中心](http://dev.umeng.com/)写的真的很乱，各个模块风格不统一，参杂各种私活。    
 OneUmeng的目地不是为了替代官方文档或者Demo，更多的是提供一个简单的dependency
 
+## About Icon
+build on [Google Plus](https://www.iconfinder.com/icons/68032/%2B1_google_google%2B_grey_one_plus_square_icon) and [Umeng About Us](http://www.umeng.com/aboutus_about)
+
 ## What's Include 
 
 ### [统计分析](http://dev.umeng.com/analytics/android-doc/integration)
