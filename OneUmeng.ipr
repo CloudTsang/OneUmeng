@@ -25,6 +25,11 @@
     <file url="file://$PROJECT_DIR$/Feedback/build.gradle" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Feedback/libs/com.umeng.fb.5.2.0.jar" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Feedback/src/jniLibs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lean56/oneumeng/app/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" charset="UTF-8" />
   </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />

@@ -24,8 +24,10 @@ OneUmeng的目地不是为了替代官方文档或者Demo，更多的是提供一个简单的dependency
 ### [自动更新](http://dev.umeng.com/auto-update/android-doc)
 对应AutoUpdate模块
 
-## About Me
-See [Blog](http://lean56.com)
+## Umeng Account
+测试用Umeng帐号
+account:oneumeng@lean56.com
+password:OneUmeng
 
 ## Reference
 1.
