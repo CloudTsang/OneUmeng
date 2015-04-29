@@ -28,8 +28,8 @@ build on [Google Plus](https://www.iconfinder.com/icons/68032/%2B1_google_google
 对应AutoUpdate模块
 
 ## Umeng Account
-测试用Umeng帐号
 account:oneumeng@lean56.com
+
 password:OneUmeng
 
 ## Reference
