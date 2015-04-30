@@ -1,31 +1,32 @@
 # OneUmeng
-Umeng All In One, ÓÑÃË¿ª·¢¹¤¾ß¼¯³É°ü
+Umeng All In One, å‹ç›Ÿå¼€å‘å·¥å…·é›†æˆåŒ…
 [![Build Status](https://travis-ci.org/zhangchaoxu/OneUmeng.png?branch=master)](https://travis-ci.org/zhangchaoxu/OneUmeng)
 
 ## About OneUmeng
-ÓÑÃËÌá¹©ÁËÒ»Ì×ÍêÕûµÄ[APP¿ª·¢¼°ÔËÓªÒ»Õ¾Ê½½â¾ö·½°¸](http://www.umeng.com/),°ïÖúÒÆ¶¯¿ª·¢Õß½«¸ü¶àµÄ¾«Á¦·ÅÔÚÒÆ¶¯Ó¦ÓÃµÄÒµÎñ±¾ÉíÉÏ¡£   
-²»¹ıÓÑÃËµÄ[ÎÄµµÖĞĞÄ](http://dev.umeng.com/)Ğ´µÄÕæµÄºÜÂÒ£¬¸÷¸öÄ£¿é·ç¸ñ²»Í³Ò»£¬²ÎÔÓ¸÷ÖÖË½»î¡£    
-OneUmengµÄÄ¿µØ²»ÊÇÎªÁËÌæ´ú¹Ù·½ÎÄµµ»òÕßDemo£¬¸ü¶àµÄÊÇÌá¹©Ò»¸ö¼òµ¥µÄdependency
+å‹ç›Ÿæä¾›äº†ä¸€å¥—å®Œæ•´çš„[APPå¼€å‘åŠè¿è¥ä¸€ç«™å¼è§£å†³æ–¹æ¡ˆ](http://www.umeng.com/),å¸®åŠ©ç§»åŠ¨å¼€å‘è€…å°†æ›´å¤šçš„ç²¾åŠ›æ”¾åœ¨ç§»åŠ¨åº”ç”¨çš„ä¸šåŠ¡æœ¬èº«ä¸Š.   
+ä¸è¿‡å‹ç›Ÿçš„[æ–‡æ¡£ä¸­å¿ƒ](http://dev.umeng.com/)å†™çš„çœŸçš„å¾ˆä¹±,å„ä¸ªæ¨¡å—é£æ ¼ä¸ç»Ÿä¸€,å‚æ‚å„ç§ç§è´§.
+
+OneUmengçš„ç›®åœ°ä¸æ˜¯ä¸ºäº†æ›¿ä»£å®˜æ–¹æ–‡æ¡£æˆ–è€…Demoï¼Œæ›´å¤šçš„æ˜¯æä¾›ä¸€ä¸ªç®€å•çš„Reference.
 
 ## About Icon
 build on [Google Plus](https://www.iconfinder.com/icons/68032/%2B1_google_google%2B_grey_one_plus_square_icon) and [Umeng About Us](http://www.umeng.com/aboutus_about)
 
 ## What's Include 
 
-### [Í³¼Æ·ÖÎö](http://dev.umeng.com/analytics/android-doc/integration)
-¶ÔÓ¦analyticsÄ£¿é
+### [ç»Ÿè®¡åˆ†æ](http://dev.umeng.com/analytics/android-doc/integration)
+å¯¹åº”analyticsæ¨¡å—
 
-### [Éç»á»¯·ÖÏí](http://dev.umeng.com/social/android/quick-integration)
-¶ÔÓ¦SocialÄ£¿é
+### [ç¤¾ä¼šåŒ–åˆ†äº«](http://dev.umeng.com/social/android/quick-integration)
+å¯¹åº”Socialæ¨¡å—
 
-### [ÏûÏ¢ÍÆËÍ](http://dev.umeng.com/push/android/integration)
-¶ÔÓ¦PushÄ£¿é
+### [æ¶ˆæ¯æ¨é€](http://dev.umeng.com/push/android/integration)
+å¯¹åº”Pushæ¨¡å—
 
-### [ÓÃ»§·´À¡](http://dev.umeng.com/feedback/android/integration)
-¶ÔÓ¦FeedbackÄ£¿é
+### [ç”¨æˆ·åé¦ˆ](http://dev.umeng.com/feedback/android/integration)
+å¯¹åº”Feedbackæ¨¡å—
 
-### [×Ô¶¯¸üĞÂ](http://dev.umeng.com/auto-update/android-doc)
-¶ÔÓ¦AutoUpdateÄ£¿é
+### [è‡ªåŠ¨æ›´æ–°](http://dev.umeng.com/auto-update/android-doc)
+å¯¹åº”AutoUpdateæ¨¡å—
 
 ## Umeng Account
 account:oneumeng@lean56.com
@@ -33,7 +34,7 @@ account:oneumeng@lean56.com
 password:OneUmeng
 
 ## Reference
-1.[ÓÑÃËÎÄµµÖĞĞÄ](http://dev.umeng.com/)
+1.[å‹ç›Ÿæ–‡æ¡£ä¸­å¿ƒ](http://dev.umeng.com/)
 
 ## License
 
