@@ -11,7 +11,7 @@ OneUmeng的目地不是为了替代官方文档或者Demo，更多的是提供�
 ## About Icon
 build on [Google Plus](https://www.iconfinder.com/icons/68032/%2B1_google_google%2B_grey_one_plus_square_icon) and [Umeng About Us](http://www.umeng.com/aboutus_about)
 
-## What's Include 
+## What's Included 
 
 ### [统计分析](http://dev.umeng.com/analytics/android-doc/integration)
 对应analytics模块
